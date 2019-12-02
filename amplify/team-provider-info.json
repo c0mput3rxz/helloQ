@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hello-quasar-dev-123724-authRole",
+            "UnauthRoleArn": "arn:aws:iam::458334912324:role/amplify-hello-quasar-dev-123724-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::458334912324:role/amplify-hello-quasar-dev-123724-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-hello-quasar-dev-123724-deployment",
+            "UnauthRoleName": "amplify-hello-quasar-dev-123724-unauthRole",
+            "StackName": "amplify-hello-quasar-dev-123724",
+            "StackId": "arn:aws:cloudformation:us-west-2:458334912324:stack/amplify-hello-quasar-dev-123724/6c627960-147a-11ea-885a-0adc91850d78",
+            "AmplifyAppId": "d3dn37z3x5ybza"
+        },
+        "categories": {
+            "auth": {
+                "helloquasar0ab18343": {}
+            }
+        }
+    }
+}
