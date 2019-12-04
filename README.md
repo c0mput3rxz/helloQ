@@ -1,6 +1,6 @@
 # Quasar App (hello_quasar)
 
-A Quasar Framework app
+A Quasar Framework app written by Joshua Heilman
 
 ## Install the dependencies
 ```bash
